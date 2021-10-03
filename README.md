@@ -13,6 +13,10 @@ Computer Science Engineer from Dhaka, Bangladesh
 
 📫 How to reach me: @Sabbir-4993
 
+😄 Pronouns: He/Him/His
+
+⚡ Fun fact: I have everything 
+
 🎨 Portfolio: https://mrsabbir.website
 
 💼 LinkedIn: https://www.linkedin.com/in/sabbir-ahmed-968984126
