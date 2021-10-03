@@ -1,2 +1,18 @@
-# About-Sabbir
-About Me
+Hi 👋, I'm Sabbir
+
+[**About Me**](www.mrsabbir.website) · [**Email**](mailto:sabbir5795@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/sabbir-ahmed-968984126)
+
+Computer Science Engineer from Dhaka, Bangladesh
+
+![](https://komarev.com/ghpvc/?username=Sabbir-4993&label=PROFILE+VIEWS)
+
+
+🔭 I’m currently working on [**Trimatric**](https://trimatric.com).
+
+💬 Ask me about Laravel, Vuejs, Reactjs, git.
+
+📫 How to reach me: @Sabbir-4993
+
+🎨 Portfolio: https://mrsabbir.website
+
+💼 LinkedIn: https://www.linkedin.com/in/sabbir-ahmed-968984126
