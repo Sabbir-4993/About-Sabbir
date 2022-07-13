@@ -16,7 +16,3 @@ Computer Science Engineer from Dhaka, Bangladesh
 😄 Pronouns: He/Him/His
 
 ⚡ Fun fact: I have everything 
-
-🎨 Portfolio: https://mrsabbirahmed.com
-
-💼 LinkedIn: https://www.linkedin.com/in/sabbir-ahmed-968984126
