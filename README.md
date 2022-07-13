@@ -1,6 +1,6 @@
 Hi 👋, I'm Sabbir
 
-[**About Me**](www.mrsabbir.website) · [**Email**](mailto:sabbir5795@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/sabbir-ahmed-968984126)
+[**About Me**](www.mrsabbirahmed.com) · [**Email**](mailto:sabbir5795@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/sabbir-ahmed-968984126)
 
 Computer Science Engineer from Dhaka, Bangladesh
 
