@@ -7,7 +7,7 @@ Computer Science Engineer from Dhaka, Bangladesh
 ![](https://komarev.com/ghpvc/?username=Sabbir-4993&label=PROFILE+VIEWS)
 
 
-🔭 I’m currently working on [**Trimatric**](https://trimatric.com).
+🔭 I’m currently working on [**Trimatric AI**](https://trimatric.com).
 
 💬 Ask me about Laravel, Vuejs, Reactjs, git.
 
